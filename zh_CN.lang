@@ -113,31 +113,31 @@ tc.boss.taint=An organic rustling comes from the room beyond. The sound of somet
 #
 # Blocks
 # World
-tile.ore_amber.name=Amber Bearing Stone
-tile.ore_cinnabar.name=Cinnabar Ore
-tile.crystal_aer.name=Air Crystal
-tile.crystal_ignis.name=Fire Crystal
-tile.crystal_aqua.name=Water Crystal
-tile.crystal_terra.name=Earth Crystal
-tile.crystal_ordo.name=Order Crystal
-tile.crystal_perditio.name=Entropy Crystal
+tile.ore_amber.name=琥珀矿石
+tile.ore_cinnabar.name=朱砂矿石
+tile.crystal_aer.name=风之结晶
+tile.crystal_ignis.name=火之结晶
+tile.crystal_aqua.name=水之结晶
+tile.crystal_terra.name=地之结晶
+tile.crystal_ordo.name=秩序结晶
+tile.crystal_perditio.name=混沌结晶
 tile.crystal_vitium.name=Flux Crystal
-tile.log.greatwood.name=Greatwood Log
-tile.log.silverwood.name=Silverwood Log
-tile.leaf.greatwood.name=Greatwood Leaves
-tile.leaf.silverwood.name=Silverwood Leaves
+tile.log.greatwood.name=宏伟之木原木
+tile.log.silverwood.name=银树原木
+tile.leaf.greatwood.name=宏伟之木树叶
+tile.leaf.silverwood.name=银树树叶
 tile.taint_log.taintwood.name=Taintwood Log
 tile.taint_leaf.taintwood.name=Taintwood Leaves 
-tile.sapling.greatwood.name=Greatwood Sapling
-tile.sapling.silverwood.name=Silverwood Sapling
-tile.plank.greatwood.name=Greatwood Planks
-tile.plank.silverwood.name=Silverwood Planks
-tile.greatwood_stairs.name=Greatwood stairs
-tile.silverwood_stairs.name=Silverwood Stairs
-tile.stone.arcane.name=Arcane Stone
-tile.stone.arcane_brick.name=Arcane Stone Brick
-tile.stone.ancient.name=Ancient Stone
-tile.stone.ancient_rock.name=Ancient Rock
+tile.sapling.greatwood.name=宏伟之木树苗
+tile.sapling.silverwood.name=银树树苗
+tile.plank.greatwood.name=宏伟之木木板
+tile.plank.silverwood.name=银树木板
+tile.greatwood_stairs.name=宏伟之木楼梯
+tile.silverwood_stairs.name=银树楼梯
+tile.stone.arcane.name=奥术石头
+tile.stone.arcane_brick.name=奥术石头楼梯
+tile.stone.ancient.name=荒古石头
+tile.stone.ancient_rock.name=荒古岩石
 tile.stone.eldritch.name=Eldritch Stone
 tile.stone.ancient_tile.name=Ancient Stone Tile
 tile.stone.crust.name=Crusted Stone
@@ -879,12 +879,12 @@ tc.aspect.machina=Mechanism, Machine
 tc.aspect.vinculum=Trap, Imprison
 #  
 # Research categories
-tc.research_category.BASICS=Basic Information
-tc.research_category.THAUMATURGY=Thaumaturgy
-tc.research_category.ALCHEMY=Alchemy
-tc.research_category.ARTIFICE=Artifice
-tc.research_category.GOLEMANCY=Golemancy
-tc.research_category.ELDRITCH=Eldritch
+tc.research_category.BASICS=基本信息
+tc.research_category.THAUMATURGY=神秘学
+tc.research_category.ALCHEMY=炼金术
+tc.research_category.ARTIFICE=炼化学
+tc.research_category.GOLEMANCY=傀儡学
+tc.research_category.ELDRITCH=异域学
 #  
 # Special formatting codes:
 # <BR> or <BR/>         Paragraph break (<BR/> is included for people using XML for their localization)
